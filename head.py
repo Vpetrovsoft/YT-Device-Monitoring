@@ -1,0 +1,1 @@
+Conosole.WriteLine("Hellom Pediki");
